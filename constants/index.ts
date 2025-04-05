@@ -226,4 +226,15 @@ export const dummyInterviews: Interview[] = [
     finalized: false,
     createdAt: '2024-03-14T15:30:00Z',
   },
+  {
+    id: '3',
+    userId: 'user3',
+    role: 'Game Developer',
+    type: 'Advanced',
+    techstack: ['Unreal Engine'],
+    level: 'Senior',
+    questions: ['What is Node.js?'],
+    finalized: false,
+    createdAt: '2024-03-14T15:30:00Z',
+  },
 ]
